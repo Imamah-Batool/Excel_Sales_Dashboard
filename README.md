@@ -9,7 +9,7 @@ This is an interactive sales dashboard created in Microsoft Excel as a part of m
 - Conditional Formatting
 
 ## 📸 Preview
-![Dashboard Preview]()
+![Dashboard Preview](Dashboard_Preview.png)
 
 ## 📁 Files
 - `Excel_Sales_Dashboard.xlsx` – Main Excel dashboard
